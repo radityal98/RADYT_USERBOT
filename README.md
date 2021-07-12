@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/radityal98/RADYT_USERBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/radityal98/RADYT_USERBOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/radityal98/RADYT_USERBOT?style=social">
   </a>
 </p>  
 
