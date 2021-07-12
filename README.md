@@ -5,12 +5,12 @@
     <img src="https://img.shields.io/github/forks/radityal98/RADYT_USERBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/radityal98/RADYT_USERBOT">
     <img src="https://img.shields.io/github/stars/radityal98/RADYT_USERBOT?style=social">
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
+![VIEWS](https://komarev.com/ghpvc/?username=radityal98)
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
